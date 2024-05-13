@@ -6,6 +6,7 @@
 🎓 I have a degree in accounting and Systems Analysis and Development.<br/>
 🌱 I’m currently learning English, Jest, gRpc, kafka.<br/>
 ☕️ I’m coffeer. <br/>
+⚡ Bla bla bla...<br/>
 
 ## Social Media:
 
