@@ -1,7 +1,11 @@
-### Hi there! I'm Fábio 👋
+# Hi there! I'm Fábio 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiomeirelles3&layout=compact&hide=javascript,html,scss" align="right" />
 
+🏠 I’m currently living at Uberaba/MG - Brasil. <br/>
 👨‍💻 I’m currently working as a FullStack Developer.<br/>
-🌱 I’m currently learning Jest, gRpc, kafka
+🎓 I have a degree in accounting and Systems Analysis and Development.<br/>
+🌱 I’m currently learning English, Jest, gRpc, kafka.<br/>
+☕️ I’m coffeer. <br/>
 
 ## Social Media:
 
@@ -42,3 +46,4 @@
 <a href="https://github.com/" title="GitHub"><img src="icons/github-color.svg" width="35" height="35" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/visualstudiocode-color.svg" width="35" height="35" /></a>
 <a href="https://dbeaver.io/" title="Dbeaver"><img src="icons/dbeaver-color.svg" width="35" height="35" /></a>
+
